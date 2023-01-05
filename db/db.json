@@ -1,0 +1,66 @@
+{
+  "user": [
+    {
+      "name": "Deep",
+      "email": "deep@test.com",
+      "password": "deep@123",
+      "id": 1
+    },
+    {
+      "email": "anil@test.com",
+      "name": "anil",
+      "password": "anil@123",
+      "id": 2
+    },
+    {
+      "email": "Deepu@test.com",
+      "name": "Deepanshu",
+      "password": "Deepu@123",
+      "id": 3
+    },
+    {
+      "email": "deepanshu@test.com",
+      "name": "deepanshu",
+      "password": "deep@1234",
+      "id": 4
+    },
+    {
+      "email": "singh@test.com",
+      "name": "singh",
+      "password": "singh@123",
+      "id": 5
+    },
+    {
+      "email": "singh@test.com",
+      "name": "singh",
+      "password": "@Deep123",
+      "id": 6
+    }
+  ],
+  "restaurant": [
+    {
+      "name": "Lfc",
+      "address": "chennai",
+      "contact": "12345899",
+      "id": 1
+    },
+    {
+      "name": "kfc",
+      "address": "delhi",
+      "contact": "1234",
+      "id": 2
+    },
+    {
+      "name": "burger king",
+      "address": "kolkata",
+      "contact": "0999",
+      "id": 3
+    },
+    {
+      "name": "ss biryani",
+      "address": "bihar",
+      "contact": "1111",
+      "id": 4
+    }
+  ]
+}
